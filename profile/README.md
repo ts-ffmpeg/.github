@@ -1,13 +1,5 @@
 ## Hi there 👋, this is the ts-ffmpeg team. 
 We are aim to provide a stable typescript lib for ffmpeg, follow the former fluent-ffmpeg lib.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Try out `@ts-ffmpeg/fluent-ffmpeg` on [npm](https://www.npmjs.com/package/@ts-ffmpeg/fluent-ffmpeg), which is fully compatible with `fluent-ffmpeg`, but with types in it.
+Code comtrubution or new issues are also welcome on https://github.com/ts-ffmpeg/node-fluent-ffmpeg.
