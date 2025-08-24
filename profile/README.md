@@ -1,4 +1,5 @@
-## Hi there 👋, this is the ts-ffmpeg team. We are aim to provide a stable typescript lib for ffmpeg, follow the former fluent-ffmpeg lib.
+## Hi there 👋, this is the ts-ffmpeg team. 
+We are aim to provide a stable typescript lib for ffmpeg, follow the former fluent-ffmpeg lib.
 
 <!--
 
